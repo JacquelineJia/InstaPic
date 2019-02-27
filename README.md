@@ -1,16 +1,7 @@
 # InstaPic
 Instagram Clone application
 
-Demo video:
-<iframe 
-  width="420" 
-  height="315" 
-  src="https://raw.githubusercontent.com/JacquelineJia/InstaPic/master/InstaPic_Demo.mov" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
-
-
+[Demo video](https://www.youtube.com/embed/vPYZCVAWNsI)
 
 Tutorials used:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-application-programming-interfaces-apis
