@@ -3,7 +3,7 @@ Instagram Clone application
 
 [Demo video](https://www.youtube.com/embed/vPYZCVAWNsI)
 
-Tutorials used:
+Tutorials followed:
 
 [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-application-programming-interfaces-apis)
 
