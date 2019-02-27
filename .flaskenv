@@ -1,2 +1,0 @@
-FLASK_APP=instapic.py
-FLASK_DEBUG=0
