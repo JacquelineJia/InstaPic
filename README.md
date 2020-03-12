@@ -4,6 +4,7 @@ Instagram Clone application
 [Demo video](https://www.youtube.com/embed/vPYZCVAWNsI)
 
 Backend - Created an API using the Flask framework
+
 Features:
 - Users can register with a username
 - Users can submit posts that include an image and description
@@ -14,6 +15,7 @@ Features:
 
 
 Frontend - Created a ReactJS app
+
 Features:
 - Users can register with a username
 - Users can create posts that include an image and description
